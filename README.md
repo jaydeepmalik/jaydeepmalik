@@ -1,7 +1,5 @@
 <br>
 <p>
-  <img src="" width="27px">
-  <br><br>
   <samp>
     Hi there :wave: <br>
     I'm Jaydeep Malik -  Cyber Security Researcher <br>
