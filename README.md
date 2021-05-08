@@ -1,16 +1,24 @@
-### Hi there 👋
+<br>
+<p>
+  <img src="" width="27px">
+  <br><br>
+  <samp>
+    Hi there :wave: <br>
+    I'm Jaydeep Malik -  Cyber Security Researcher <br>
+    💼 Website <a href="https://jaydeepmalik.com">Home | Jaydeep Malik</a> <br>
+    :house_with_garden: Live in Noida, India :tr:
+    <br><br>
+    💌 - hi@jaydeepmalik.com
+  </samp>
+</p>
 
-<!--
-**jaydeepmalik/jaydeepmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<a href="https://www.instagram.com/jaydeepmalik/">
+<img align="left" alt="Jaydeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/jaydeepmalik">
+<img align="left" alt="Mustafa's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
