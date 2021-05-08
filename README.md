@@ -2,9 +2,9 @@
 <p>
   <samp>
     Hi there :wave: <br>
-    I'm Jaydeep Malik -  Cyber Security Researcher <br>
-    💼 Website <a href="https://jaydeepmalik.com">Home | Jaydeep Malik</a> <br>
-    :house_with_garden: Live in Noida, India :tr:
+    I'm Jaydeep Malik - Cyber Security Researcher <br>
+    💼 Website: <a href="https://jaydeepmalik.com">Home | Jaydeep Malik</a> <br>
+    :house_with_garden: Live in Noida, India
     <br><br>
     💌 - hi@jaydeepmalik.com
   </samp>
